@@ -1,4 +1,4 @@
-# ![CASS-Logo](https://cass-research.org/wp-content/uploads/2019/05/CASS-Logo_freigestellt.png) Cassava Source-Sink Project 
+# ![CASS-Logo](https://cass-research.org/wp-content/uploads/2019/05/CASS-Logo_freigestellt.png) Cassava Source-Sink Project ![Biocomp-Logo](https://www.biochemie.nat.fau.de/files/2022/04/bc_logo.png)
 
 
 ## Improving cassava yield to support smallholder farmers in Sub Saharan Africa 
