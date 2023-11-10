@@ -3,7 +3,7 @@
 ## Improving cassava yield to support smallholder farmers in Sub Saharan Africa 
 ## Publicly available scripts, codes and analyses used for publications associated with the Cassava Source-Sink Project (CASS) funded by the Bill and Melinda Gates Foundation
 
-**[1]** <br /> 
+**[1]**
 **Carbon usage in yellow-fleshed Manihot esculenta storage roots shifts from starch biosynthesis to cell wall and raffinose biosynthesis via the myo-inositol pathway**<br />
 Authors:<br />
 Sindy Gutschker<sup>1</sup>, David Ruescher<sup>1</sup>, Ismail Y. Rabbi<sup>2</sup>, Laise Rosado-Souza<sup>3</sup>, Benjamin Pommerrenig<sup>4</sup>, Anna M. van Doorn<sup>2</sup>, Armin Schlereth<sup>3</sup>, H. Ekkehard Neuhaus<sup>4</sup>, Alisdair R. Fernie<sup>3</sup>, Stephan Reinert<sup>1</sup>, Uwe Sonnewald<sup>1</sup>, Wolfgang Zierer<sup>1</sup>
