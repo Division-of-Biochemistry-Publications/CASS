@@ -1,6 +1,5 @@
-# ![CASS-Logo](https://cass-research.org/wp-content/uploads/2019/05/CASS-Logo_freigestellt.png) <u>Cassava Source-Sink Project<u/> <img src="https://www.biochemie.nat.fau.de/files/2022/04/bc_logo.png" width="150" height="150"> <br/>
-## Improving cassava yield to support smallholder farmers in Sub Saharan Africa<br />
-## Publicly available scripts, codes and analyses used for publications associated with the Cassava Source-Sink Project (CASS) funded by the Bill and Melinda Gates Foundation
+# ![CASS-Logo](https://cass-research.org/wp-content/uploads/2019/05/CASS-Logo_freigestellt.png) <u>Cassava Source-Sink Project<u/> <img src="https://www.biochemie.nat.fau.de/files/2022/04/bc_logo.png" width="150" height="150"> <br/> Improving cassava yield to support smallholder farmers in Sub Saharan Africa<br />
+### Publicly available scripts, codes and analyses used for publications associated with the Cassava Source-Sink Project (CASS) funded by the Bill and Melinda Gates Foundation
 ### 2023
 
 **[1] Carbon usage in yellow-fleshed Manihot esculenta storage roots shifts from starch biosynthesis to cell wall and raffinose biosynthesis via the myo-inositol pathway**<br /><br />
