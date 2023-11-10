@@ -5,7 +5,7 @@
 
 ### **[1] Carbon usage in yellow-fleshed Manihot esculenta storage roots shifts from starch biosynthesis to cell wall and raffinose biosynthesis via the myo-inositol pathway**<br /><br />
 Authors:<br /><br />
-Sindy Gutschker<sup>1</sup>, David Ruescher<sup>1</sup>, Ismail Y. Rabbi<sup>2</sup>, Laise Rosado-Souza<sup>3</sup>, Benjamin Pommerrenig<sup>4</sup>, Anna M. van Doorn<sup>2</sup>, Armin Schlereth<sup>3</sup>, H. Ekkehard Neuhaus<sup>4</sup>, Alisdair R. Fernie<sup>3</sup>, Stephan Reinert<sup>1</sup>, Uwe Sonnewald<sup>1</sup>, Wolfgang Zierer<sup>1</sup>
+Sindy Gutschker<sup>1</sup>, David Ruescher<sup>1</sup>, Ismail Y. Rabbi<sup>2</sup>, Laise Rosado-Souza<sup>3</sup>, Benjamin Pommerrenig<sup>4</sup>, Anna M. van Doorn<sup>2</sup>, Armin Schlereth<sup>3</sup>, H. Ekkehard Neuhaus<sup>4</sup>, Alisdair R. Fernie<sup>3</sup>, Stephan Reinert<sup>1</sup>, Uwe Sonnewald<sup>1</sup>, Wolfgang Zierer<sup>1</sup><br /><br />
 Affiliation:<br /><br />
 <sup>1</sup> Friedrich-Alexander-Universität Erlangen-Nürnberg, Division of Biochemistry, Erlangen, Germany
 <sup>2</sup> International Institute of Tropical Agriculture, Ibadan, Nigeria
