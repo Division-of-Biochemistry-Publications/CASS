@@ -1,4 +1,4 @@
-# Cassava Source-Sink Project ![](https://cass-research.org/wp-content/uploads/2019/05/CASS-Logo_freigestellt.png))
+# ![](https://cass-research.org/wp-content/uploads/2019/05/CASS-Logo_freigestellt.png) Cassava Source-Sink Project 
 
 ## Improving cassava yield to support smallholder farmers in Sub Saharan Africa 
 
