@@ -19,10 +19,10 @@ Staudtstraße 5<br />
 91058 Erlangen<br />
 Germany<br /><br />
 
-**[2] XXX**<br />
+**[2] XXX**<br /><br />
 Authors:<br /><br />
 Affiliation:<br />
 
-**[3] YYY**<br />
+**[3] YYY**<br /><br />
 Authors:<br /><br />
 Affiliation:<br />
