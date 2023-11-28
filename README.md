@@ -6,9 +6,9 @@
 Authors:<br />
 Sindy Gutschker<sup>1</sup>, David Ruescher<sup>1</sup>, Ismail Y. Rabbi<sup>2</sup>, Laise Rosado-Souza<sup>3</sup>, Benjamin Pommerrenig<sup>4</sup>, Anna M. van Doorn<sup>2</sup>, Armin Schlereth<sup>3</sup>, H. Ekkehard Neuhaus<sup>4</sup>, Alisdair R. Fernie<sup>3</sup>, Stephan Reinert<sup>1</sup>, Uwe Sonnewald<sup>1</sup>, Wolfgang Zierer<sup>1</sup><br /><br />
 Affiliation:<br />
-<sup>1</sup> Friedrich-Alexander-Universität Erlangen-Nürnberg, Division of Biochemistry, Erlangen, Germany
-<sup>2</sup> International Institute of Tropical Agriculture, Ibadan, Nigeria
-<sup>3</sup> Max Planck Institute of Molecular Plant Physiology, Potsdam-Golm, Germany
+<sup>1</sup> Friedrich-Alexander-Universität Erlangen-Nürnberg, Division of Biochemistry, Erlangen, Germany<br />
+<sup>2</sup> International Institute of Tropical Agriculture, Ibadan, Nigeria<br />
+<sup>3</sup> Max Planck Institute of Molecular Plant Physiology, Potsdam-Golm, Germany<br />
 <sup>4</sup> University of Kaiserslautern, Plant Physiology, Kaiserslautern, Germany<br /><br />
 Author for correspondence: wolfgang.zierer@fau.de<br />
 Wolfgang Zierer<br />
