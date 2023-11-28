@@ -16,4 +16,3 @@ Division of Biochemistry<br />
 Staudtstraße 5<br />
 91058 Erlangen<br />
 Germany<br /><br />
-DOI: XXX<br /><br />
