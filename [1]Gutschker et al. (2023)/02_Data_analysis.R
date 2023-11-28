@@ -359,6 +359,22 @@ meta_data$cell_wall <- meta_data$DYLD-meta_data$starch
 meta_data$ratio <- meta_data$cell_wall/meta_data$DYLD
 meta_data$ratio <- (meta_data$DYLD-((meta_data$FYLD/100)*meta_data$STARCH))/meta_data$DYLD
 BLUE <- lmer(ratio ~ (1|accession_name) + plot_number, data = meta_data)
+meta_data <- meta_data %>%
+  na.omit() %>%
+  mutate(prediction = predict(BLUE))
+meta_data2 <- meta_data %>%
+  group_by(accession_name, type) %>%
+  summarise(mean_prediction = mean(prediction)) %>%
+  ungroup()
+x <- filter(meta_data2, type == "WHITE_GT")$mean_prediction
+y <- filter(meta_data2, type == "YELLOW_GT")$mean_prediction
+shapiro.test(x)
+ggqqplot(x)
+shapiro.test(y)
+ggqqplot(y)
+ks.test(x,y)
+leveneTest(mean_prediction ~ type, data = meta_data2)
+t.test(mean_prediction ~ type, data = meta_data2, var.equal = TRUE)
 
 ########################################################################################################################
 # SAVE SESSION INFO
