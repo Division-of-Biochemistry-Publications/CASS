@@ -70,7 +70,7 @@ import matplotlib.pyplot as plt
 # variables 
 # =============================================================================
 # define working directory
-wd = "/Users/david/Documents/GitHub/Ruescher_et_al_2024/"
+wd = "~/Ruescher_et_al_2024/"
 # define data path
 dataPath = "../data/RNASEQ/"
 # define path to scripts
