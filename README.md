@@ -2,7 +2,7 @@
 ### Scripts, codes and analyses used for publications associated with the Cassava Source-Sink Project (CASS) funded by the Bill and Melinda Gates Foundation
 ### 2023
 
-**[1] Carbon usage in yellow-fleshed Manihot esculenta storage roots shifts from starch biosynthesis to cell wall and raffinose biosynthesis via the myo-inositol pathway**(doi: https://doi.org/10.1111/tpj.16909)<br /><br />
+**[1] Carbon usage in yellow-fleshed Manihot esculenta storage roots shifts from starch biosynthesis to cell wall and raffinose biosynthesis via the myo-inositol pathway**(https://doi.org/10.1111/tpj.16909)<br /><br />
 Authors:<br />
 Sindy Gutschker<sup>1</sup>, David Ruescher<sup>1</sup>, Ismail Y. Rabbi<sup>2</sup>, Laise Rosado-Souza<sup>3</sup>, Benjamin Pommerrenig<sup>4</sup>, Anna M. van Doorn<sup>2</sup>, Armin Schlereth<sup>3</sup>, H. Ekkehard Neuhaus<sup>4</sup>, Alisdair R. Fernie<sup>3</sup>, Stephan Reinert<sup>1</sup>, Uwe Sonnewald<sup>1</sup>, Wolfgang Zierer<sup>1</sup><br /><br />
 Affiliation:<br />
@@ -19,7 +19,7 @@ Germany<br /><br />
 
 ### 2024
 
-**[2] Symplasmic phloem loading and subcellular transport in storage roots are key factors for carbon allocation in cassava**<br /><br />
+**[2] Symplasmic phloem loading and subcellular transport in storage roots are key factors for carbon allocation in cassava** (https://doi.org/10.1093/plphys/kiae298)<br /><br />
 Authors:<br />
 David Ruescher<sup>1</sup>, Viktoriya V. Vasina<sup>2</sup>, Jan Knoblauch<sup>2</sup>, Leo Bellin<sup>3</sup>, Benjamin Pommerrenig<sup>3</sup>, Saleh Alseekh<sup>4</sup>, Alisdair R. Fernie<sup>4</sup>, H. Ekkehard Neuhaus<sup>3</sup>, Michael Knoblauch<sup>2</sup>, Uwe Sonnewald<sup>1</sup>, Wolfgang Zierer<sup>1</sup><br /><br />
 Affiliation:<br />
@@ -34,7 +34,9 @@ Staudtstraße 5<br />
 91058 Erlangen<br />
 Germany<br /><br />
 
-**[3] High-resolution spatial transcriptomics of stem and storage root vascular cambia highlights key regulatory processes for storage parenchyma differentiation in cassava**<br /><br />
+### 2025
+
+**[3] PREPRINT: High-resolution spatial transcriptomics of stem and storage root vascular cambia highlights key regulatory processes for storage parenchyma differentiation in cassava** (https://doi.org/10.1101/2025.01.24.634672)<br /><br />
 Authors:<br />
 David Ruescher<sup>1</sup>, Uwe Sonnewald<sup>1</sup>, Wolfgang Zierer<sup>1</sup><br /><br />
 Affiliation:<br />
